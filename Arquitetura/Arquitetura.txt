@@ -1,0 +1,7 @@
+Para que todos os sistemas web se comuniquem, eu criaria um WebApi para todas as operações, assim não seria necessário reescrever o código. Sendo assim os sistemas web só seriam responsaveis pelos inputs e apresentar o resultado na tela, o business e o CRUD estaria na Api.
+
+Provavelmente o legado usa WebService com comunicação SOAP, então sera necessario criar uma solução com 3 projetos (WebService, WebApi e Business.dll), assim o WebService e a WebApi compartilhariam o core.
+
+A solução ficará na nuvem, podemos utilizar Google Cloud ou Amazon com Auto Balance e com redundância através de multiplas zonas.
+
+Para implantação iniciariamos garantindo que o legado ainda funciona, em seguida estaria em produção a WebApi integrando com apenas um sistema Web e quando estiver certo, publicar os outros sistemas web, pois como não tera dependencia, pode ser testado em paralelo
