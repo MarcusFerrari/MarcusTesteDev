@@ -1,0 +1,11 @@
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\obj\Debug\netcoreapp3.0\MarcusFerrariConsole.AssemblyInfoInputs.cache
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\obj\Debug\netcoreapp3.0\MarcusFerrariConsole.AssemblyInfo.cs
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.exe
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.deps.json
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.runtimeconfig.json
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.runtimeconfig.dev.json
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.dll
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\bin\Debug\netcoreapp3.0\MarcusFerrariConsole.pdb
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\obj\Debug\netcoreapp3.0\MarcusFerrariConsole.dll
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\obj\Debug\netcoreapp3.0\MarcusFerrariConsole.pdb
+C:\Users\marcus.ferrari\Desktop\Proj Novo Emprego\Provas\Cadmus\MarcusFerrariConsole\MarcusFerrariConsole\obj\Debug\netcoreapp3.0\MarcusFerrariConsole.csprojAssemblyReference.cache
